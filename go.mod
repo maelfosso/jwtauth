@@ -1,4 +1,4 @@
-module github.com/go-chi/jwtauth/v5
+module github.com/maelfosso/jwtauth
 
 go 1.15
 
